@@ -8,6 +8,8 @@ L'Inversion de Contrôle (IoC) et l'Injection de Dépendances (DI) sont des prin
 
 ## Injection des Dépendances : Approches Utilisées
 
+![img.png](img.png)
+
 ### 1. Injection des Dépendances par Instanciation Statique
 Dans cette approche, les dépendances sont instanciées directement dans le code. C'est une approche simple mais qui pose des problèmes de flexibilité et de maintenance.
 
