@@ -42,7 +42,7 @@ IDao dao = (IDao) cDao.getConstructor().newInstance();
 Spring permet d'automatiser l'injection des dépendances en utilisant des fichiers XML ou des annotations.
 
 ### Injection via Configuration XML
-Dans cette approche, nous définissons les dépendances dans un fichier `applicationContext.xml`.
+Dans cette approche, nous définissons les dépendances dans un fichier `config.xml`.
 
 #### Exemple :
 ```xml
